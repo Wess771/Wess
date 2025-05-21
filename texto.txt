@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Auxílio Luxe Cheats</title>
+  <style>
+    body {
+      background-color: #111;
+      color: white;
+      font-family: sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+    a {
+      display: inline-block;
+      padding: 15px 30px;
+      background: #f90;
+      color: #000;
+      text-decoration: none;
+      border-radius: 10px;
+      margin-top: 20px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h1>Auxílio Luxe Cheats</h1>
+  <p>Download e configurações de mira</p>
+  <a href="https://seulink.com">Baixar Agora</a>
+</body>
+</html>
